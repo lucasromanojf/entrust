@@ -1,5 +1,5 @@
 {
-    "name": "code-orange/entrust",
+    "name": "lucasromanojf/entrust",
     "description": "This package provides a flexible way to add Role-based Permissions to Laravel 6",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
